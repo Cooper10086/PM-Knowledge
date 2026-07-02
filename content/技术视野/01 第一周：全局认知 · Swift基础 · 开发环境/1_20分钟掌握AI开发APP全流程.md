@@ -6,7 +6,7 @@ tags:
   - SwiftUI
   - 实战教程
 summary: 本文为 AI 时代个人独立开发 App 全流程的大白话精讲笔记，详解番茄钟倒计时核心逻辑与苹果开发者账号注册风控避坑。
-publish: "true"
+publish: true
 ---
 
 # 1_20分钟掌握AI开发APP全流程 (iOS 2026版 - PM 零基础精讲版)
