@@ -11,7 +11,6 @@ publish: true
 ---
 
 > [!NOTE] 关联笔记
-> - 原始转写整理版：[[homebrew-vibecoding时代必装命令行工具-原始整理]]
 > - 基础安装指南篇：[[Mac隐藏的App Store-Homebrew全方位入门指南-实战教程]]
 
 # AI 协作开发实战：Homebrew 在 Vibecoding 时代的工作流整合

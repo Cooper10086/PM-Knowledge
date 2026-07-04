@@ -9,10 +9,6 @@ summary: 本文根据 CodeWithChris 2026年最新 App 开发系列视频整理�
 publish: true
 ---
 
-> [!NOTE] 关联笔记
-> - 原始口语转写整理版：[[1_App开发概述与2_Xcode教程-原始整理]]
-> - iOS 开发基础知识地图：[[1-现代_iOS_开发知识地图_2026版]]
-> - iOS 提审与分发工具链：[[8-TestFlight_与_iOS_开发工具链_总结]]
 
 # iOS App 独立开发起步：从架构认知到 Xcode 26 与首个 SwiftUI 应用开发实战
 

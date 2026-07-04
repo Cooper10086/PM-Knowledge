@@ -10,7 +10,6 @@ publish: true
 ---
 
 > [!NOTE] 关联笔记
-> - 原始口语转写整理版：[[5_Swift基础-变量与常量-原始整理]]
 > - 前序卡牌游戏界面篇：[[4_WarCardGameUI-实战教程]]
 
 # Swift 编程起步：Playground 使用、变量常量声明与数据类型建模实战

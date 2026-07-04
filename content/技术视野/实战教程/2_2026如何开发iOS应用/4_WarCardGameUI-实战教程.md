@@ -10,7 +10,6 @@ publish: true
 ---
 
 > [!NOTE] 关联笔记
-> - 原始口语转写整理版：[[4_WarCardGameUI-原始整理]]
 > - 前序 Xcode 入门课：[[2_Xcode教程-实战教程]]
 
 # SwiftUI 实战开发：War Card Game 游戏界面架构设计与动态自适应排版

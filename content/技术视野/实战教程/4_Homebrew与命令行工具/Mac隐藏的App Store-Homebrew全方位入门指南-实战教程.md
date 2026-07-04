@@ -10,7 +10,6 @@ publish: true
 ---
 
 > [!NOTE] 关联笔记
-> - 原始转写整理版：[[Mac隐藏的App Store-Homebrew全方位入门指南-原始整理]]
 > - 协作生态篇：[[homebrew-vibecoding时代必装命令行工具-实战教程]]
 
 # Mac 极客必读：Homebrew 全方位包管理安装与实战教程

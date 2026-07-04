@@ -11,8 +11,6 @@ publish: true
 ---
 
 > [!NOTE] 关联笔记
-> - 原始口语转写整理版：[[0_AI开发APP全流程-原始整理]]
-> - iOS 原生与跨平台开发对比：[[4-Flutter_与_Swift_原生开发对比_2026版]]
 > - Xcode 原生与跨平台对比教程：[[3-Flutter_SwiftUI_Xcode_对比教程_2026版]]
 
 # AI时代个人独立开发：从需求、原型到Xcode编译与App Store上架全流程实战
