@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 5-TMGM_金融交易App_技术选型与Flutter_SwiftUI对比 (iOS配套文档 - PM 零基础精讲版)

@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 3-Flutter_SwiftUI_Xcode_对比教程_2026版 (iOS配套文档 - PM 零基础精讲版)

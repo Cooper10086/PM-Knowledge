@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 3-现代DataHub企业数据团队为什么要学习AI平台（完整整理） (AI与数据智能 - PM 零基础精讲版)

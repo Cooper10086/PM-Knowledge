@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 6-Homebrew_初学者教程_增强版_含Mac基础 (macOS基础 - PM 零基础精讲版)

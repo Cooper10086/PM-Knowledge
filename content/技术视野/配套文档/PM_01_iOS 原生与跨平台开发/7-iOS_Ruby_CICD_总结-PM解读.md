@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 7-iOS_Ruby_CICD_总结 (iOS配套文档 - PM 零基础精讲版)

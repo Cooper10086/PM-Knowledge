@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 8-TestFlight_与_iOS_开发工具链_总结 (iOS配套文档 - PM 零基础精讲版)

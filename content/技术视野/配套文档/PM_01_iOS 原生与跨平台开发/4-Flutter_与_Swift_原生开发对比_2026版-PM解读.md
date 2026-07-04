@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 4-Flutter_与_Swift_原生开发对比_2026版 (iOS配套文档 - PM 零基础精讲版)

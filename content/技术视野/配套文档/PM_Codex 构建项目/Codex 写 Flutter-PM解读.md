@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # Codex 写 Flutter (AI项目构建 - PM 零基础精讲版)

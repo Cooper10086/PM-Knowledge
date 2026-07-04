@@ -1,5 +1,6 @@
 ---
 publish: true
+category: 技术视野
 ---
 
 # 2-Dify全面解析——企业AI应用平台实践指南 (AI与数据智能 - PM 零基础精讲版)
