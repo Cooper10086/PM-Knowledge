@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const VAULT_DIR = "/Users/cooper.fu/Library/Mobile Documents/com~apple~CloudDocs/Obsidian-05:02/Cooper";
+const VAULT_DIR = "/Users/cooper.fu/Koofr/Obsidian-0502";
 const CONTENT_DIR = "./content";
 
 function isPublished(text) {
