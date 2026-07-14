@@ -1,3 +1,29 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+// 修复 Mermaid 图表底层配色兼容性问题：
+// Quartz 内部某些主题色是用 hsl(calc(...)) 动态计算的，
+// Mermaid 的取色逻辑读不懂这种写法，这里改成写死的颜色值来绕开。
+:root {
+  --secondary: #284b63;
+  --tertiary: #84a59d;
+  --gray: #b8b8b8;
+  --light: #faf8f8;
+  --lightgray: #e5e5e5;
+  --highlight: rgba(143, 159, 169, 0.15);
+  --dark: #2b2b2b;
+  --darkgray: #4e4e4e;
+  --codeFont: "IBM Plex Mono", monospace;
+}
+
+:root[saved-theme="dark"] {
+  --secondary: #7b97aa;
+  --tertiary: #84a59d;
+  --gray: #646464;
+  --light: #161618;
+  --lightgray: #393639;
+  --highlight: rgba(143, 159, 169, 0.15);
+  --dark: #ebebec;
+  --darkgray: #d4d4d4;
+  --codeFont: "IBM Plex Mono", monospace;
+}
